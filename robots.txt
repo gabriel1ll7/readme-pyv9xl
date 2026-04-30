@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gabriel1ll7.github.io/readme-pyv9xl/sitemap.xml
